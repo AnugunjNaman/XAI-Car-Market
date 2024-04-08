@@ -1,0 +1,26 @@
+Make: 
+{'Audi': 0, 'BMW': 1, 'Chevrolet': 2, 'Datsun': 3, 'Ferrari': 4, 'Fiat': 5, 'Ford': 6, 'Honda': 7, 'Hyundai': 8, 'Isuzu': 9, 'Jaguar': 10, 'Jeep': 11, 'Kia': 12, 'Land Rover': 13, 'Lexus': 14, 'MG': 15, 'MINI': 16, 'Mahindra': 17, 'Maruti Suzuki': 18, 'Maserati': 19, 'Mercedes-Benz': 20, 'Mitsubishi': 21, 'Nissan': 22, 'Porsche': 23, 'Renault': 24, 'Rolls-Royce': 25, 'Skoda': 26, 'Ssangyong': 27, 'Tata': 28, 'Toyota': 29, 'Volkswagen': 30, 'Volvo': 31}
+
+Fuel Type: 
+{'CNG': 0, 'CNG + CNG': 1, 'Diesel': 2, 'Hybrid': 3, 'LPG': 4, 'Petrol': 5, 'Petrol + CNG': 6}
+
+Location: 
+{'Agra': 0, 'Ahmedabad': 1, 'Allahabad': 2, 'Ambala Cantt': 3, 'Amritsar': 4, 'Aurangabad': 5, 'Bangalore': 6, 'Bhopal': 7, 'Bhubaneswar': 8, 'Bulandshahar': 9, 'Chandigarh': 10, 'Chennai': 11, 'Coimbatore': 12, 'Dak. Kannada': 13, 'Dehradun': 14, 'Delhi': 15, 'Deoghar': 16, 'Dharwad': 17, 'Ernakulam': 18, 'Faizabad': 19, 'Faridabad': 20, 'Ghaziabad': 21, 'Goa': 22, 'Gorakhpur': 23, 'Gurgaon': 24, 'Guwahati': 25, 'Haldwani': 26, 'Hyderabad': 27, 'Indore': 28, 'Jaipur': 29, 'Jalandhar': 30, 'Jamshedpur': 31, 'Kanpur': 32, 'Karnal': 33, 'Kharar': 34, 'Kheda': 35, 'Kolkata': 36, 'Kollam': 37, 'Kota': 38, 'Lucknow': 39, 'Ludhiana': 40, 'Mangalore': 41, 'Meerut': 42, 'Mirzapur': 43, 'Mohali': 44, 'Mumbai': 45, 'Muzaffurpur': 46, 'Mysore': 47, 'Nagpur': 48, 'Nashik': 49, 'Navi Mumbai': 50, 'Noida': 51, 'Panchkula': 52, 'Panvel': 53, 'Patna': 54, 'Pimpri-Chinchwad': 55, 'Pune': 56, 'Purnea': 57, 'Raipur': 58, 'Ranchi': 59, 'Ranga Reddy': 60, 'Rohtak': 61, 'Roorkee': 62, 'Rudrapur': 63, 'Salem': 64, 'Samastipur': 65, 'Surat': 66, 'Thane': 67, 'Udupi': 68, 'Vadodara': 69, 'Valsad': 70, 'Varanasi': 71, 'Warangal': 72, 'Yamunanagar': 73, 'Zirakpur': 74}
+
+Color: 
+{'Beige': 0, 'Black': 1, 'Blue': 2, 'Bronze': 3, 'Brown': 4, 'Gold': 5, 'Green': 6, 'Grey': 7, 'Maroon': 8, 'Orange': 9, 'Others': 10, 'Purple': 11, 'Red': 12, 'Silver': 13, 'White': 14, 'Yellow': 15}
+
+Owner: 
+{'First': 0, 'Second': 1, 'Third': 2, 'UnRegistered Car': 3}
+
+Transmission: 
+{'Automatic': 0, 'Manual': 1}
+
+Drivetrain: 
+{'AWD': 0, 'FWD': 1, 'RWD': 2}
+
+Seller Type: 
+{'Commercial Registration': 0, 'Corporate': 1, 'Individual': 2}
+
+Price: 
+{'very low': 0, 'low': 1, 'medium': 2, 'high': 3, 'very high': 4}

@@ -1,0 +1,20 @@
+fuel_type: 
+{'Diesel': 0, 'E85 Flex Fuel': 1, 'Electric': 2, 'Gasoline': 3, 'Hybrid': 4, 'Plug-In Hybrid': 5}
+
+accident: 
+{'At least 1 accident or damage reported': 0, 'None reported': 1}
+
+brand: 
+{'Acura': 0, 'Alfa': 1, 'Aston': 2, 'Audi': 3, 'BMW': 4, 'Bentley': 5, 'Buick': 6, 'Cadillac': 7, 'Chevrolet': 8, 'Chrysler': 9, 'Dodge': 10, 'FIAT': 11, 'Ferrari': 12, 'Ford': 13, 'GMC': 14, 'Genesis': 15, 'Honda': 16, 'Hummer': 17, 'Hyundai': 18, 'INFINITI': 19, 'Jaguar': 20, 'Jeep': 21, 'Kia': 22, 'Lamborghini': 23, 'Land': 24, 'Lexus': 25, 'Lincoln': 26, 'Lotus': 27, 'Lucid': 28, 'MINI': 29, 'Maserati': 30, 'Maybach': 31, 'Mazda': 32, 'McLaren': 33, 'Mercedes-Benz': 34, 'Mercury': 35, 'Mitsubishi': 36, 'Nissan': 37, 'Plymouth': 38, 'Pontiac': 39, 'Porsche': 40, 'RAM': 41, 'Rivian': 42, 'Rolls-Royce': 43, 'Saab': 44, 'Saturn': 45, 'Scion': 46, 'Subaru': 47, 'Tesla': 48, 'Toyota': 49, 'Volkswagen': 50, 'Volvo': 51, 'smart': 52}
+
+ext_col: 
+{'Black': 0, 'Blue': 1, 'Brown': 2, 'Gray': 3, 'Green': 4, 'Orange': 5, 'Others': 6, 'Purple': 7, 'Red': 8, 'White': 9, 'Yellow': 10}
+
+int_col: 
+{'Black': 0, 'Blue': 1, 'Brown': 2, 'Gray': 3, 'Green': 4, 'Orange': 5, 'Others': 6, 'Red': 7, 'White': 8, 'Yellow': 9}
+
+transmission_type: 
+{'Automatic': 0, 'CVT': 1, 'Manual': 2, 'Unknown': 3}
+
+price: 
+{'very low': 0, 'low': 1, 'medium': 2, 'high': 3, 'very high': 4}
