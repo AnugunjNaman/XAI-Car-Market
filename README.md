@@ -20,4 +20,29 @@ Team:
 - [ ] Adding PPT
 - [ ] Adding Report
 
+#### Contribution Guidelines
 
+- Clone the repository:
+```bash
+git clone <repository_url>
+```
+
+- Navigate into the cloned repository directory:
+```bash
+cd <repository_name>
+```
+
+- Create a new branch:
+```bash
+git checkout -b <new_branch_name>
+```
+
+- Make changes to the files:
+
+- Push the changes:
+```bash
+git add .
+git commit -m <your_message>
+git push -u origin <new_branch_name>
+```
+- Create a PR once the changes are done!
